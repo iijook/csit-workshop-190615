@@ -6,6 +6,10 @@ body {
     margin: auto
 }
 
+.lable-header{
+  color: brown;
+}
+
 .menu-header {
     font-weight: bold;
     margin-bottom:0px;
